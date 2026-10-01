@@ -1,10 +1,24 @@
-<div align="center">
-
 # NORTHFRAME
 
-### Systems Thinking. Human Insight. Better Outcomes.
+<!-- markdownlint-configure-file { "MD033": { "allowed_elements": ["div", "img", "p", "sub"] } } -->
+<!-- HTML provides centering, image sizing, and footer formatting. -->
+
+<div align="center">
+
+<img src="LogoWithWords.png" alt="Northframe logo — Systems Thinking. Human Insight. Better Outcomes." width="420">
+
+**Systems Thinking. Human Insight. Better Outcomes.**
 
 </div>
+
+**Northframe is currently in development and is not yet a fully established consulting company.** Its methods, services, and frameworks are evolving through practical work and continued learning.
+
+## OPEN TO PROJECT WORK
+
+I am open to either a **Northframe Read** or **embedded project work** in **marketing, positioning, strategy, research, community, documentation, project development, and early-stage problem-solving**.
+
+* **Northframe Read:** An outside review of a project, idea, or system to identify gaps, friction, missing connections, and practical next steps.
+* **Embedded project work:** Working alongside a founder or team to help research, clarify, develop, document, and move a project forward.
 
 ## About
 
@@ -155,6 +169,17 @@ Northframe begins with a small group of connected questions:
 
 The process may include research, observation, structured questioning, review of existing materials, gap analysis, and written recommendations.
 
+## Models, Maps & Frameworks
+
+These working models illustrate Northframe's approach to business structure, hidden friction, and outside perspective. They are part of the framework's ongoing development.
+
+| Built-In Marketability | The Hidden Fracture Map | The Perspective Gap |
+| --- | --- | --- |
+| [<img src="Models%2C%20Maps%20%26%20Frameworks/Built%20In%20Marketability.png" alt="Built-In Marketability: connecting value creation, market feedback, and development." width="260">](Models%2C%20Maps%20%26%20Frameworks/Built%20In%20Marketability.png) | [<img src="Models%2C%20Maps%20%26%20Frameworks/Hidden%20Fracture%20Map%20-%20Redone.png" alt="The Hidden Fracture Map: tracing visible problems to overlooked processes, behaviours, and dependencies." width="260">](Models%2C%20Maps%20%26%20Frameworks/Hidden%20Fracture%20Map%20-%20Redone.png) | [<img src="Models%2C%20Maps%20%26%20Frameworks/The%20Perspective%20Gap.png" alt="The Perspective Gap: examining an idea from customer, team, and market perspectives." width="260">](Models%2C%20Maps%20%26%20Frameworks/The%20Perspective%20Gap.png) |
+| Designing marketability and feedback into the business from the start. | Looking beneath the visible issue to find what shapes the outcome. | Testing an idea beyond the founder's own view. |
+
+Select a graphic to view it at full size, or [explore all models, maps, and frameworks](Models%2C%20Maps%20%26%20Frameworks/).
+
 ## Potential Areas of Work
 
 Northframe may support:
@@ -194,10 +219,10 @@ Northframe provides research, systems review, structured analysis, human-centred
 
 Northframe Systems Inc. has been approved and reserved as a corporate name with the Newfoundland and Labrador Registry of Companies.
 
-- **Name Reservation:** Approved
-- **Jurisdiction:** Newfoundland and Labrador, Canada
-- **Reservation Date:** August 10, 2026
-- **Current Stage:** Incorporation pending
+* **Name Reservation:** Approved
+* **Jurisdiction:** Newfoundland and Labrador, Canada
+* **Reservation Date:** August 10, 2026
+* **Current Stage:** Incorporation pending
 
 Northframe is currently being developed alongside my Enterprise Web Development studies at the College of the North Atlantic, with the technical, business, and systems knowledge gained through the program feeding into its continued development.
 
@@ -230,6 +255,22 @@ Northframe formalizes an approach she has used informally for years: looking bey
 
 [Read the full founder background](FOUNDER.md)
 
+## Earlier Consulting Experience
+
+My earlier consulting and project experience informs Northframe's methods and perspective. That work predates Northframe and is not being retroactively presented as formal Northframe case studies.
+
+Some prior client and project details are intentionally not published. The public material here represents only what I have chosen to share, rather than a complete record of earlier work.
+
+## Current Education
+
+I am currently studying **Enterprise Web Development part-time through Distributed Learning at College of the North Atlantic**.
+
+* **Current course:** Problem Solving for IT.
+* **Credit/exemption granted:** Technical Report Writing.
+* **Current plan:** Move to full-time studies in **2027**, subject to project and employment commitments.
+
+The technical, business, and systems knowledge gained through these studies continues to inform Northframe's development.
+
 ---
 
 <div align="center">
@@ -237,7 +278,6 @@ Northframe formalizes an approach she has used informally for years: looking bey
 **See the whole system. Find what is missing. Build what works.**
 
 </div>
-
 
 ---
 
