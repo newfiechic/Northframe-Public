@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="LogoWithWords.png" alt="Northframe logo — Systems Thinking. Human Insight. Better Outcomes." width="420">
+<img src="LogoTrans.png" alt="Northframe logo — Systems Thinking. Human Insight. Better Outcomes." width="420">
 
 **Systems Thinking. Human Insight. Better Outcomes.**
 
